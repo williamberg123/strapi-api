@@ -24,6 +24,7 @@ module.exports = {
 		'react/jsx-indent': 'off',
 		'react/react-in-jsx-scope': 'off',
 		'comma-dangle': 'off',
-		'react/jsx-filename-extension': 'off'
+		'react/jsx-filename-extension': 'off',
+		'import/prefer-default-export': 'off'
 	},
 };

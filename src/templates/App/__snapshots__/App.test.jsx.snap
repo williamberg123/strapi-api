@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Home correctly 1`] = `
+.c0 {
+  width: 100%;
+}
+
+<div
+  class="c0"
+>
+  <h1>
+    Oi
+  </h1>
+</div>
+`;

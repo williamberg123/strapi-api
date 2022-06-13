@@ -1,9 +1,9 @@
-import * as Styled from './styles';
+import StyledHome from './styles';
 
 export default function Home() {
 	return (
-		<Styled.Wrapper background="yellow">
+		<StyledHome>
 			<h1>Oi</h1>
-		</Styled.Wrapper>
+		</StyledHome>
 	);
 }

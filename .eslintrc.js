@@ -25,6 +25,9 @@ module.exports = {
 		'react/react-in-jsx-scope': 'off',
 		'comma-dangle': 'off',
 		'react/jsx-filename-extension': 'off',
-		'import/prefer-default-export': 'off'
+		'import/prefer-default-export': 'off',
+		'arrow-body-style': 'off',
+		'import/no-extraneous-dependencies': 'off',
+		'array-bracket-spacing': 'off'
 	},
 };

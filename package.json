@@ -1,5 +1,5 @@
 {
-	"name": "consumindo-api-strapi",
+	"name": "api-strapi",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
@@ -45,6 +45,9 @@
 		"eslint-plugin-prettier": "^4.0.0",
 		"eslint-plugin-react": "^7.30.0",
 		"eslint-plugin-react-hooks": "^4.5.0",
+		"jest": "^28.1.1",
+		"jest-styled-components": "^7.0.8",
+		"jest-watch-typeahead": "^0.6.5",
 		"prettier": "^2.6.2"
 	}
 }
